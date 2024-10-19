@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @FatimaShaikh-ai
+- 👀 I’m interested in Artificial intelligence and python programs
+- 🌱 I’m currently learning Artificial intelligence ,C/C++, python, JavaScript 
+- 💞️ I’m looking to collaborate on  python project 
+- 📫 How to reach me :from GitHub and Instagram 
+- 😄 Pronouns: Fatima Shaikh

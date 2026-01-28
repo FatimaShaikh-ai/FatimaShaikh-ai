@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Full-Stack+Web+Developer&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+Profile+:);Artificial Intelligence&center=true&width=380&height=45">
 </p>
 
 <p align="center">
